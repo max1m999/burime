@@ -1,1 +1,1 @@
-﻿
+﻿double x=double.Parse(Console.ReadLine());
